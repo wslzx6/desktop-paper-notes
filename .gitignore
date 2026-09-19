@@ -1,0 +1,41 @@
+# Build and test outputs
+/dist/
+/candidate/
+/*-candidate/
+/*-final/
+/overlap-fix/
+/premium-ui/
+/ui-candidate/
+/ui-final/
+/ui-pro-candidate/
+/ui-pro-final/
+/toolbar-candidate/
+/toolbar-final/
+/restore-candidate/
+/restore-final/
+/markdown-candidate/
+/opacity-candidate/
+/桌面便签-便携版/
+/桌面便签-便携版.zip
+
+# User data and diagnostics
+/*便签备份*.json
+/修复前便签备份.json
+/*数据备份*/
+/验证记录.md
+/test-data/
+/test-results/
+/**/test-data/
+/**/test-results/
+/**/data/
+/**/startup-diagnostics.txt
+/**/desktop-diagnostics.txt
+/**/storage-check.txt
+/**/app.log
+
+# IDE/compiler files
+/bin/
+/obj/
+*.user
+*.suo
+.vs/
